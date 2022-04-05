@@ -23,7 +23,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost/cash/app';
+    public $baseURL = 'https://winteq.github.io/cash/app/';
 
     /**
      * --------------------------------------------------------------------------
